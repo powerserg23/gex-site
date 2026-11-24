@@ -2,16 +2,16 @@
  "reports": [
   {
    "date": "2026-11-24",
-   "spot": 7160.55,
-   "total_gex": -79141318240.3669,
-   "zero_dte_gex": -9354778500.250814,
+   "spot": 7172.66,
+   "total_gex": -80969925313.63895,
+   "zero_dte_gex": -8443424762.541265,
    "regime": "negative",
-   "gamma_flip": 7482.5,
+   "gamma_flip": 7476.3,
    "call_wall": 7400.0,
    "put_wall": 7000.0,
    "zero_dte_call_wall": 7200.0,
    "zero_dte_put_wall": 7150.0,
-   "run_time_et": "2026-11-24T11:46-05:00"
+   "run_time_et": "2026-11-24T11:54-05:00"
   }
  ]
 }
