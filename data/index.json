@@ -12,6 +12,19 @@
    "zero_dte_call_wall": 7200.0,
    "zero_dte_put_wall": 7150.0,
    "run_time_et": "2026-11-24T11:54-05:00"
+  },
+  {
+   "date": "2026-11-25",
+   "spot": 6995.25,
+   "total_gex": -71919080822.67969,
+   "zero_dte_gex": -3066749847.7969017,
+   "regime": "negative",
+   "gamma_flip": 7286.9,
+   "call_wall": 7000.0,
+   "put_wall": 6950.0,
+   "zero_dte_call_wall": 7000.0,
+   "zero_dte_put_wall": 6950.0,
+   "run_time_et": "2026-11-25T09:40-05:00"
   }
  ]
 }
